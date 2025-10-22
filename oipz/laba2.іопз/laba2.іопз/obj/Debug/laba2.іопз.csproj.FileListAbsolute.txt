@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\bin\Debug\laba2.іопз.exe.config
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\bin\Debug\laba2.іопз.exe
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\bin\Debug\laba2.іопз.pdb
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.Form1.resources
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.Properties.Resources.resources
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.csproj.GenerateResource.cache
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.exe
+C:\Users\User\Desktop\laba2.іопз\laba2.іопз\obj\Debug\laba2.іопз.pdb
