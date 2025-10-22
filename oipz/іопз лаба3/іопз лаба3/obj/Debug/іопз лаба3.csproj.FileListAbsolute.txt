@@ -1,0 +1,11 @@
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\bin\Debug\іопз лаба3.exe.config
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\bin\Debug\іопз лаба3.exe
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\bin\Debug\іопз лаба3.pdb
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.csproj.AssemblyReference.cache
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.csproj.SuggestedBindingRedirects.cache
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз_лаба3.Form1.resources
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз_лаба3.Properties.Resources.resources
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.csproj.GenerateResource.cache
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.csproj.CoreCompileInputs.cache
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.exe
+D:\ЗУНУ\оіпз\іопз лаба3\іопз лаба3\obj\Debug\іопз лаба3.pdb
