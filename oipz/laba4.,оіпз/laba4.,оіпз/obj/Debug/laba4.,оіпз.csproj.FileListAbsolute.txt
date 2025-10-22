@@ -1,0 +1,12 @@
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\bin\Debug\laba4.,оіпз.exe.config
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\bin\Debug\laba4.,оіпз.exe
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\bin\Debug\laba4.,оіпз.pdb
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.csproj.AssemblyReference.cache
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.csproj.SuggestedBindingRedirects.cache
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4._оіпз.Form1.resources
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4._оіпз.Form2.resources
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4._оіпз.Properties.Resources.resources
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.csproj.GenerateResource.cache
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.csproj.CoreCompileInputs.cache
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.exe
+D:\ЗУНУ\оіпз\laba4.,оіпз\laba4.,оіпз\obj\Debug\laba4.,оіпз.pdb
